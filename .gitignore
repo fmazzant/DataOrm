@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Mafesoft/v16
+/Mafesoft.Data/bin/Debug/NET5.0
+/Mafesoft.Data/obj/Debug
+/Mafesoft.Data/obj
